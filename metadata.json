@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of জার্মান স্মার্ট লার্নিং (Smart German)",
+  "description": "An AI-powered German language learning platform with advanced dictionary, grammar checker, and interactive AI tutor.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
